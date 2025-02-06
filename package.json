@@ -1,0 +1,10 @@
+{
+  "name": "claude-duet",
+  "version": "0.1.0",
+  "description": "Two devs, one Claude. Share a Claude Code session in real-time with E2E encryption.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
