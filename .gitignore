@@ -6,3 +6,4 @@ build/
 node_modules/
 __pycache__/
 .cache/
+.pytest_cache/
